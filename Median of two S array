@@ -1,0 +1,69 @@
+class Solution {
+    
+    private int firstArrayLength;
+
+    private int secondArrayLength;
+    
+    private int[] firstArray;
+    
+    private int[] secondArray;
+
+    
+    public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+   
+        firstArrayLength = nums1.length;
+        secondArrayLength = nums2.length;
+        this.firstArray = nums1;
+        this.secondArray = nums2;
+
+        
+        int leftMedianElement = findKthSmallest(0, 0, (firstArrayLength + secondArrayLength + 1) / 2);
+        int rightMedianElement = findKthSmallest(0, 0, (firstArrayLength + secondArrayLength + 2) / 2);
+
+       
+        return (leftMedianElement + rightMedianElement) / 2.0;
+    }
+
+    
+    private int findKthSmallest(int firstArrayStartIndex, int secondArrayStartIndex, int k) {
+        
+        if (firstArrayStartIndex >= firstArrayLength) {
+            return secondArray[secondArrayStartIndex + k - 1];
+        }
+
+        
+        if (secondArrayStartIndex >= secondArrayLength) {
+            return firstArray[firstArrayStartIndex + k - 1];
+        }
+
+      
+        if (k == 1) {
+            return Math.min(firstArray[firstArrayStartIndex], secondArray[secondArrayStartIndex]);
+        }
+
+       
+        int halfK = k / 2;
+
+        
+        
+        int firstArrayMidValue = (firstArrayStartIndex + halfK - 1 < firstArrayLength)
+            ? firstArray[firstArrayStartIndex + halfK - 1]
+            : Integer.MAX_VALUE;
+
+                
+        int secondArrayMidValue = (secondArrayStartIndex + halfK - 1 < secondArrayLength)
+            ? secondArray[secondArrayStartIndex + halfK - 1]
+            : Integer.MAX_VALUE;
+
+        
+        
+        
+        if (firstArrayMidValue < secondArrayMidValue) {
+        
+            return findKthSmallest(firstArrayStartIndex + halfK, secondArrayStartIndex, k - halfK);
+        } else {
+        
+            return findKthSmallest(firstArrayStartIndex, secondArrayStartIndex + halfK, k - halfK);
+        }
+    }
+}
