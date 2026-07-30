@@ -1,0 +1,29 @@
+class Solution {
+   
+    public List<List<Integer>> generate(int numRows) {
+        List<List<Integer>> pascalTriangle = new ArrayList<>();
+      
+        pascalTriangle.add(List.of(1));
+      
+        for (int rowIndex = 0; rowIndex < numRows - 1; rowIndex++) {
+            List<Integer> currentRow = new ArrayList<>();
+          
+            currentRow.add(1);
+          
+          
+            List<Integer> previousRow = pascalTriangle.get(rowIndex);
+            for (int colIndex = 1; colIndex < previousRow.size(); colIndex++) {
+                int sum = previousRow.get(colIndex - 1) + previousRow.get(colIndex);
+                currentRow.add(sum);
+            }
+          
+            
+            currentRow.add(1);
+          
+            
+            pascalTriangle.add(currentRow);
+        }
+      
+        return pascalTriangle;
+    }
+}
