@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Rivan0808/DSA-journey/tree/master/0040-combination-sum-ii) |
+| [0835-image-overlap](https://github.com/Rivan0808/DSA-journey/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rivan0808/DSA-journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rivan0808/DSA-journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rivan0808/DSA-journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Rivan0808/DSA-journey/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
