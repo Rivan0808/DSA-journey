@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Rivan0808/DSA-journey/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rivan0808/DSA-journey/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Rivan0808/DSA-journey/tree/master/0047-permutations-ii) |
 | [0835-image-overlap](https://github.com/Rivan0808/DSA-journey/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rivan0808/DSA-journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rivan0808/DSA-journey/tree/master/3483-unique-3-digit-even-numbers) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Rivan0808/DSA-journey/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rivan0808/DSA-journey/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Rivan0808/DSA-journey/tree/master/0047-permutations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Rivan0808/DSA-journey/tree/master/0047-permutations-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rivan0808/DSA-journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
