@@ -85,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Rivan0808/DSA-journey/tree/master/3525-find-x-value-of-array-ii) |
+## Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Rivan0808/DSA-journey/tree/master/0129-sum-root-to-leaf-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Rivan0808/DSA-journey/tree/master/0129-sum-root-to-leaf-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Rivan0808/DSA-journey/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
