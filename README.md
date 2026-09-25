@@ -19,9 +19,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Rivan0808/DSA-journey/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rivan0808/DSA-journey/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rivan0808/DSA-journey/tree/master/0047-permutations-ii) |
+| [1096-brace-expansion-ii](https://github.com/Rivan0808/DSA-journey/tree/master/1096-brace-expansion-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Rivan0808/DSA-journey/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rivan0808/DSA-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rivan0808/DSA-journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Rivan0808/DSA-journey/tree/master/0047-permutations-ii) |
+| [1096-brace-expansion-ii](https://github.com/Rivan0808/DSA-journey/tree/master/1096-brace-expansion-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rivan0808/DSA-journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Rivan0808/DSA-journey/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rivan0808/DSA-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -112,8 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rivan0808/DSA-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rivan0808/DSA-journey/tree/master/0112-path-sum) |
+| [1096-brace-expansion-ii](https://github.com/Rivan0808/DSA-journey/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rivan0808/DSA-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Rivan0808/DSA-journey/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
